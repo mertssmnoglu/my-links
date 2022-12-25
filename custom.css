@@ -1,5 +1,8 @@
-
 .ld-custom-name, .ld-custom-description {
+    color: white;
+}
+
+.ld-custom-name:visited {
     color: white;
 }
 
