@@ -1,9 +1,5 @@
 
-.ld-custom-name {
-    color: white;
-}
-
-.ld-custom-name:visited {
+.ld-custom-name, .ld-custom-description {
     color: white;
 }
 
@@ -39,3 +35,4 @@
 .ld-custom-background-layer {
     background-color: #202020;
 }
+
